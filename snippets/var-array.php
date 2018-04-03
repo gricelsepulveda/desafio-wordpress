@@ -1,0 +1,7 @@
+<?php 
+
+  //TAMBIÉN UNA VARIABLE PUEDE SOPORTAR ARREGLOS (Y LOS ARREGLOS A SU VEZ SOPORTAN STRINGS, BOOLEANOS, ENTEROS, ETC)
+  $varArrayA = [1, "a", true, 4];
+  $varArrayB = [2];
+
+?>
